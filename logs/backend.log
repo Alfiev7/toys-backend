@@ -1,0 +1,26 @@
+20.9.2023, 19:32:06 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 19:35:59 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 19:41:14 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 19:41:45 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 19:41:49 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 19:42:38 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 19:43:09 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 19:43:12 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 19:45:51 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 19:46:07 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 19:52:30 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 19:53:04 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 19:56:07 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 19:56:14 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 19:56:47 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 19:58:26 - ERROR - Cannot delete toy | No Such Toy
+20.9.2023, 19:58:47 - ERROR - Cannot get toy | Toy not found!
+22.9.2023, 13:50:08 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 13:51:41 - ERROR - Cannot delete toy | No Such Toy
+22.9.2023, 13:52:53 - ERROR - Cannot get toy | Toy not found!
+22.9.2023, 13:53:05 - ERROR - Cannot get toy | Toy not found!
+22.9.2023, 13:53:28 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 13:53:33 - ERROR - Cannot delete toy | No Such Toy
+22.9.2023, 13:54:32 - ERROR - Cannot delete toy | No Such Toy
+22.9.2023, 13:56:49 - ERROR - Cannot delete toy | No Such Toy
+22.9.2023, 13:57:13 - INFO - Server listening on port http://127.0.0.1:3030/

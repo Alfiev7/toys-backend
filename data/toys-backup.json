@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Tamagotchi",
+      "price": 150,
+      "labels": ["Battery Powered", "Puzzle"],
+      "createdAt": 1695215304769,
+      "inStock": true
+    },
+    {
+      "name": "Barbie",
+      "price": 55,
+      "labels": ["Doll", "Puzzle"],
+      "createdAt": 1395215304769,
+      "inStock": true
+    },
+    {
+      "name": "Little Pony",
+      "price": 250,
+      "labels": ["Battery Powered", "Baby"],
+      "createdAt": 1695215304769,
+      "inStock": true
+    }
+  ]

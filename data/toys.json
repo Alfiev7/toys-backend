@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Barbie",
+        "price": 600,
+        "labels": [
+            "Doll",
+            "Puzzle"
+        ],
+        "createdAt": 1395215304769,
+        "inStock": true,
+        "_id": "igaqL",
+        "msgs": [
+            "Hey"
+        ]
+    },
+    {
+        "name": "Little Pony",
+        "price": 250,
+        "labels": [
+            "Battery Powered",
+            "Baby"
+        ],
+        "createdAt": 1695215304769,
+        "inStock": true,
+        "_id": "igkqd"
+    },
+    {
+        "name": "FairyWings ",
+        "price": 102,
+        "_id": "igkqL"
+    },
+    {
+        "name": "Barbie",
+        "price": 55,
+        "_id": "zVDuI"
+    }
+]
